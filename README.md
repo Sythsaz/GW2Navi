@@ -4,7 +4,12 @@ Trying to revive it with my non coding skills... - This repository is for downlo
 Gonna attemp to debbug and post here for people who may know... 
 I don't know what i'm doing so here's what I got in eclipse
 
-  java.lang.Error: Unresolved compilation problems: 
+## Error log ouput
+
+  
+  
+```
+        java.lang.Error: Unresolved compilation problems:
 	The import com.sun.jna cannot be resolved
 	The import com.sun.jna cannot be resolved
 	The import com.sun.jna cannot be resolved
@@ -40,7 +45,10 @@ I don't know what i'm doing so here's what I got in eclipse
 	CefBrowser cannot be resolved to a type
 	CefBrowser cannot be resolved to a type
 	Ini cannot be resolved to a type
+	com.sun.jdi.InvocationException: Exception occurred in target VM occurred invoking method.
+	
+```
 
-  com.sun.jdi.InvocationException: Exception occurred in target VM occurred invoking method.
-  
-11/11/2022
+
+
+**11/11/2022**
